@@ -1,2 +1,2 @@
 # EcommerceExplorationAnalysis
-Ecommerce Exploration Analysis  
+An e-commerce company is experiencing a complaint rate of up to 28% and a customer satisfaction rating of 2.9/5.0, which could negatively impact the future of the business. The company sought help from the Data Analyst team to conduct a data analysis to improve business performance and provide strategic recommendations. I utilized the Exploratory Data Analysis (EDA) method to understand the data based on product category performance. The results revealed several categories with poor complaint rates and customer satisfaction, allowing the business team to focus on these categories by offering more strategic cashback and considering customer tenure.
